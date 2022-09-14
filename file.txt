@@ -46,3 +46,10 @@ https://threejs-journey.com/?c=p3#
 pagina excelente de juegos
 https://madbox.io/
 
+Platzi.customPrefix: {
+    public: aws-amplify-react,
+    protected: 'myProtectedPrefix/',
+    private: 'myPrivatePrefix/'
+};
+
+Curso para gerentes de tecnologia
