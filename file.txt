@@ -1,3 +1,10 @@
 This is a sample file for git
 
 version 2.37.2
+
+diferentes paginas<S3Album
+    level="private"
+    path={path}
+    filter={(item) => /jpg/i.test(item.path)}
+/>
+
