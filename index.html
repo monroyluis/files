@@ -8,5 +8,11 @@
 </head>
 <body>
     <!-- comment -->
+    <div>
+        <amplify-photo-picker
+            (loaded)="onImagePreviewLoaded($event)"
+            (picked)="onImageSelected($event)">
+        </amplify-photo-picker>
+    </div>
 </body>
 </html>
