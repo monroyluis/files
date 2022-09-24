@@ -1,6 +1,1 @@
-Storage.configure({
-    bucket: // Your bucket ARN;
-    region: // Specify the region your bucket was created in;
-    identityPoolId: // Specify your identityPoolId for Auth and Unauth access to your bucket;
-});
-config
+*.xlsx
