@@ -52,3 +52,13 @@ body
     padding: 0.5em;
     font-size: 12px;
 }
+
+@media screen {
+     max-width: 768px;
+     border-radius: 20px;
+}
+
+@media screen {
+    max-width: 568px;
+    border-radius: 10px;
+}
