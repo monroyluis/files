@@ -14,3 +14,10 @@ console.log(epicPhrase2)
 
 //multiline strings
 
+let lorem = 'esto es un string \n ' + 'otra linea';
+
+let lorem2 = `Esta es una frase epica
+la continuacion de la frase 
+`;
+console.log(lorem);
+console.log (lorem2);
