@@ -16,6 +16,7 @@
   ],
   "author": "Luis M.",
   "license": "MIT",
+  "type":"module",
   "bugs": {
     "url": "https://github.com/monroyluis/files/issues"
   },
